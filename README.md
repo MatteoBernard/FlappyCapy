@@ -30,3 +30,7 @@ Le joueur doit éviter les obstacles afin de réaliser le meilleur score possibl
   https://youtu.be/YTQAjKBNp8g?si=iFEdJCzdjG2vDD-Z
 * Son de saut : CARTOON JUMP 2 Sound Effect🔊
   https://youtu.be/wBc_JKywXqw?si=yO7K7YSoGcESYZai
+
+# Jouer 
+
+* Un dossier avec un .exe se trouve ici : https://drive.google.com/drive/folders/1O1GUvhe214EIxlvWQXZxBS3zkUbbSBuM?usp=sharing
