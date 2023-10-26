@@ -34,8 +34,11 @@ Le joueur doit éviter les obstacles afin de réaliser le meilleur score possibl
 # Jouer 
 
 * Un dossier avec un .exe se trouve ici : https://drive.google.com/drive/folders/1O1GUvhe214EIxlvWQXZxBS3zkUbbSBuM?usp=sharing
-* 
+  
 * Ou alors :
-* git clone https://github.com/MatteoBernard/FlappyCapy.git
-* pip install pygame
-* python3 FlappyCapy/main.py
+  ```
+  git clone https://github.com/MatteoBernard/FlappyCapy.git
+  pip install pygame
+  cd FlappyCapy
+  python3 main.py
+  ```
